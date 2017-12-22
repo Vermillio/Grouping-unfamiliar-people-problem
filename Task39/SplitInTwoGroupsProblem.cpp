@@ -1,3 +1,7 @@
+//There are N people and a rectangular table A [1: N, 1: N], 
+//the element A [i, j] is 1 if the person i is familiar with the person j, A [i, j] = A [j, i]. 
+//Can people be divided into 2 groups, so that in each group there are only strangers.
+
 #include "SplitInTwoGroupsProblem.h"
 #include <iostream>
 #include <algorithm>
@@ -7,7 +11,7 @@ using namespace std;
 
 void SplitInTwoGroupsProblem::Run()
 {
-	cout << "Enter pairs of acquainted people (numeration from 0): " << endl;
+	cout << "Enter pairs of familiar people (numeration from 0): " << endl;
 	int a, b;
 	int N = 0;
 	vector<List*> input;
