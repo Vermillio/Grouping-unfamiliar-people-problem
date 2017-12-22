@@ -1,0 +1,10 @@
+﻿  SplitInTwoGroupsProblem.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task39\task39\splitintwogroupsproblem.h(21): warning C4091: typedef : пропускается слева от "SplitInTwoGroupsProblem::List", когда ни одна переменная не объявлена
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task39\task39\splitintwogroupsproblem.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task39\task39\splitintwogroupsproblem.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task39\task39\splitintwogroupsproblem.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task39\task39\splitintwogroupsproblem.h(21): warning C4091: typedef : пропускается слева от "SplitInTwoGroupsProblem::List", когда ни одна переменная не объявлена
+  Создание кода...
+  Task39.vcxproj -> c:\users\morga\documents\visual studio 2015\Projects\2course\tasks\Task39\Debug\Task39.exe
+  Task39.vcxproj -> c:\users\morga\documents\visual studio 2015\Projects\2course\tasks\Task39\Debug\Task39.pdb (Partial PDB)
